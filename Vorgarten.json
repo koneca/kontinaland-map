@@ -44,7 +44,7 @@
          "height":40,
          "id":1,
          "name":"Boden",
-         "opacity":0.15,
+         "opacity":1,
          "type":"tilelayer",
          "visible":true,
          "width":100,
@@ -58,7 +58,7 @@
          "name":"Blumen",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":100,
          "x":0,
          "y":0
@@ -70,7 +70,7 @@
          "objects":[],
          "opacity":1,
          "type":"objectgroup",
-         "visible":false,
+         "visible":true,
          "x":0,
          "y":0
         }, 
@@ -87,7 +87,7 @@
                  "value":true
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":100,
          "x":0,
          "y":0
